@@ -1,0 +1,1 @@
+# SwiftUI_NAVIGATIONBAR_COLOR_WhenScrolling
